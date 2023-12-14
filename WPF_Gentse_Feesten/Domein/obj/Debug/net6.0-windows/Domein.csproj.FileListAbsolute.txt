@@ -1,0 +1,12 @@
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Domein\bin\Debug\net6.0-windows\Domein.deps.json
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Domein\bin\Debug\net6.0-windows\Domein.dll
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Domein\bin\Debug\net6.0-windows\Domein.pdb
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Domein\obj\Debug\net6.0-windows\Domein.csproj.AssemblyReference.cache
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Domein\obj\Debug\net6.0-windows\Domein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Domein\obj\Debug\net6.0-windows\Domein.AssemblyInfoInputs.cache
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Domein\obj\Debug\net6.0-windows\Domein.AssemblyInfo.cs
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Domein\obj\Debug\net6.0-windows\Domein.csproj.CoreCompileInputs.cache
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Domein\obj\Debug\net6.0-windows\Domein.dll
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Domein\obj\Debug\net6.0-windows\refint\Domein.dll
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Domein\obj\Debug\net6.0-windows\Domein.pdb
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Domein\obj\Debug\net6.0-windows\ref\Domein.dll

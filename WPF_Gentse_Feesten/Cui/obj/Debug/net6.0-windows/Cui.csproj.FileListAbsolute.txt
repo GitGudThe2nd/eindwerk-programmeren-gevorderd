@@ -1,0 +1,15 @@
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Cui\bin\Debug\net6.0-windows\Cui.deps.json
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Cui\bin\Debug\net6.0-windows\Cui.dll
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Cui\bin\Debug\net6.0-windows\Cui.pdb
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Cui\bin\Debug\net6.0-windows\Domein.dll
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Cui\bin\Debug\net6.0-windows\Domein.pdb
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Cui\obj\Debug\net6.0-windows\Cui.csproj.AssemblyReference.cache
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Cui\obj\Debug\net6.0-windows\Cui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Cui\obj\Debug\net6.0-windows\Cui.AssemblyInfoInputs.cache
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Cui\obj\Debug\net6.0-windows\Cui.AssemblyInfo.cs
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Cui\obj\Debug\net6.0-windows\Cui.csproj.CoreCompileInputs.cache
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Cui\obj\Debug\net6.0-windows\Cui.csproj.CopyComplete
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Cui\obj\Debug\net6.0-windows\Cui.dll
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Cui\obj\Debug\net6.0-windows\refint\Cui.dll
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Cui\obj\Debug\net6.0-windows\Cui.pdb
+C:\Users\harve\OneDrive\Bureaublad\eindwerk programmeren\WPF_Gentse_Feesten\Cui\obj\Debug\net6.0-windows\ref\Cui.dll
